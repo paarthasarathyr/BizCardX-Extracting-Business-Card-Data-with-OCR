@@ -7,13 +7,13 @@ BizCardX is a Streamlit web application that utilizes OCR (Optical Character Rec
 - Database Integration: Save the extracted information along with the business card image into a SQL database.
 
 # Technologies Used
-Python: Core programming language for the application.
-Streamlit: Web app framework for creating interactive and user-friendly interfaces.
-EasyOCR: Optical Character Recognition library for text extraction from images.
-MySQL: Database management system for storing and retrieving business card data.
-Pandas: Data manipulation and analysis library.
+- Python: Core programming language for the application.
+- Streamlit: Web app framework for creating interactive and user-friendly interfaces.
+- EasyOCR: Optical Character Recognition library for text extraction from images.
+- MySQL: Database management system for storing and retrieving business card data.
+- Pandas: Data manipulation and analysis library.
 
 # How to Use
-Home: Get an overview of the application and technologies used.
-Upload & Extract: Upload a business card image, view the extracted data, and save it to the database.
-Modify: Alter or delete existing data in the database for accuracy.
+- Home: Get an overview of the application and technologies used.
+- Upload & Extract: Upload a business card image, view the extracted data, and save it to the database.
+- Modify: Alter or delete existing data in the database for accuracy.
